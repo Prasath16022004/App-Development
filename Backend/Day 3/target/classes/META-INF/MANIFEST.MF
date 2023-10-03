@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: prasath
+Build-Jdk: 17.0.6
+Implementation-Title: spring-boot-rest-api-auth-jwt-tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.staxrt.tutorial
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-rest-api-auth-jwt-tutorial
+Created-By: Maven Integration for Eclipse
+
